@@ -1,6 +1,8 @@
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 3rem;">
 <h1>Hello, I'm Lucas 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=prolud&label=Profile%20views&color=60598F&style=flat" width="50">
+<img src="https://komarev.com/ghpvc/?username=prolud&label=Profile%20views&color=60598F&style=flat" width="100">
+<br/>
+  <br/>
 </div>
 
 <div>
